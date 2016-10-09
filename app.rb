@@ -1,7 +1,7 @@
 require 'sinatra'
-require 'rubygems'
-require 'tilt/erb'
-require 'pg'
+# require 'rubygems'
+# require 'tilt/erb'
+# require 'pg'
 
 get '/' do
 @title = 'Home Page'
